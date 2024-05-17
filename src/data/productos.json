@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "nombre": "Café Calvi Moca Blend",
+        "precio": 10950,
+        "imagen": "https://placeholder.pics/svg/200",
+        "descripcion": "Una mezcla equilibrada con notas de chocolate y nueces, perfecta para un espresso suave y delicioso."
+    },
+    {
+        "id": 2,
+        "nombre": "Café Calvi Colombia Supremo",
+        "precio": 13700,
+        "imagen": "https://placeholder.pics/svg/200",
+        "descripcion": "Café de alta calidad con sabores brillantes y afrutados, ideal para los amantes de un perfil de taza complejo y aromático."
+    },
+    {
+        "id": 3,
+        "nombre": "Café Calvi Brasil 27",
+        "precio": 8300,
+        "imagen": "https://placeholder.pics/svg/200",
+        "descripcion": "Un café suave con toques de chocolate y frutos secos, perfecto para quienes disfrutan de una bebida con cuerpo y sabor balanceado."
+    },
+    {
+        "id": 4,
+        "nombre": "Café Calvi Etiopía Kaffa",
+        "precio": 13970,
+        "imagen": "https://placeholder.pics/svg/200",
+        "descripcion": "Exótico y floral, este café etíope ofrece una experiencia única con notas de jazmín y un toque cítrico."
+    },
+    {
+        "id": 5,
+        "nombre": "Café Calvi Dark Roast",
+        "precio": 9700,
+        "imagen": "https://placeholder.pics/svg/200",
+        "descripcion": "Un tueste oscuro que intensifica los sabores de cacao y caramelo, ideal para quienes prefieren un café robusto y profundo."
+    },
+    {
+        "id": 6,
+        "nombre": "Café Calvi Santos",
+        "precio": 13300,
+        "imagen": "https://placeholder.pics/svg/200",
+        "descripcion": "Café brasileño suave con un perfil dulce y cremoso, perfecto para una taza reconfortante y placentera."
+    }
+ 
+]

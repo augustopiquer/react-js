@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: rgb(253, 186, 61);;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    align-items: center;
+}
+
+.nav {
+    display: flex;
+}
+
+.nav-menu {
+    list-style-type: none;
+    display: flex;
+    gap: .5rem;
+}
+
+.nav-link {
+    color :rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.products-container {
+    min-height: 30vh;
+    display: grid;
+    place-items: center;
+}
+
+.oscuro {
+    background-color: black !important;
+}
+
+.item-list-container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.productos-grilla {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+}
+
+.producto {
+    background-color: rgb(253, 186, 61);
+    border-radius: .5rem;
+    padding: 1rem;
+}
